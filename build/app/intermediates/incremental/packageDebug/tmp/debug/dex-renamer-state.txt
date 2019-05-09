@@ -1,0 +1,4 @@
+#Sat Mar 23 18:29:46 ICT 2019
+base.0=E\:\\flutter\\project\\IGClone\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
