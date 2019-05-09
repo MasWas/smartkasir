@@ -1,6 +1,6 @@
 # smartkasir
 
-A new Flutter project.
+Project Bersama
 
 ## Getting Started
 
