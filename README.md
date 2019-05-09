@@ -1,4 +1,4 @@
-# smartkasir
+# SmartKasir
 
 Project Bersama SmartKasir
 
