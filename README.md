@@ -1,5 +1,5 @@
 # IGC [Instagram Clone]
-Basic material dengan clone instagram UI With Flutter
+Basic material dengan clone instagram UI
 
 <h1>Hallo</h1>
 
